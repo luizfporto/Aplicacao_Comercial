@@ -1,0 +1,11 @@
+C:\Users\T-Gamer\Desktop\faculdade luizinho\OrientaçãoObjetos\AplicacaoComercial\AplicacaoComercial\bin\Debug\AplicacaoComercial.exe.config
+C:\Users\T-Gamer\Desktop\faculdade luizinho\OrientaçãoObjetos\AplicacaoComercial\AplicacaoComercial\bin\Debug\AplicacaoComercial.exe
+C:\Users\T-Gamer\Desktop\faculdade luizinho\OrientaçãoObjetos\AplicacaoComercial\AplicacaoComercial\bin\Debug\AplicacaoComercial.pdb
+C:\Users\T-Gamer\Desktop\faculdade luizinho\OrientaçãoObjetos\AplicacaoComercial\AplicacaoComercial\obj\Debug\AplicacaoComercial.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Desktop\faculdade luizinho\OrientaçãoObjetos\AplicacaoComercial\AplicacaoComercial\obj\Debug\AplicacaoComercial.frmCadCarro.resources
+C:\Users\T-Gamer\Desktop\faculdade luizinho\OrientaçãoObjetos\AplicacaoComercial\AplicacaoComercial\obj\Debug\AplicacaoComercial.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\faculdade luizinho\OrientaçãoObjetos\AplicacaoComercial\AplicacaoComercial\obj\Debug\AplicacaoComercial.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\faculdade luizinho\OrientaçãoObjetos\AplicacaoComercial\AplicacaoComercial\obj\Debug\AplicacaoComercial.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\faculdade luizinho\OrientaçãoObjetos\AplicacaoComercial\AplicacaoComercial\obj\Debug\AplicacaoComercial.exe
+C:\Users\T-Gamer\Desktop\faculdade luizinho\OrientaçãoObjetos\AplicacaoComercial\AplicacaoComercial\obj\Debug\AplicacaoComercial.pdb
+C:\Users\T-Gamer\Desktop\faculdade luizinho\OrientaçãoObjetos\AplicacaoComercial\AplicacaoComercial\obj\Debug\AplicacaoComercial.frmPrincipal.resources
